@@ -1,5 +1,5 @@
 # OKR-Q4-21
-Automi OKRs for the 4th quarter of 2021
+*Automi OKRs for the 4th quarter of 2021*
 
 ## [O1. Happy early stage customers](https://github.com/automi-team/OKR-Q4-21/milestone/1)
 
