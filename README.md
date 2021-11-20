@@ -7,11 +7,11 @@ We've spent this year testing technology, refining our product vision and provin
 ## [O1. Make early stage customers happy](https://github.com/automi-team/OKR-Q4-21/milestone/1)
 We are building up a pool of 10 early customers who believe in our product. These customers will give us credibility we need to convince the market and investors. They will also invest their time in giving us feedback on the product.
 
-### [KR1: 3 POCs completed](https://github.com/automi-team/OKR-Q4-21/projects/2)
+### [KR1: Three POCs completed](https://github.com/automi-team/OKR-Q4-21/projects/2)
 
-### [KR2: 3 customer referrals](https://github.com/automi-team/OKR-Q4-21/projects/3)
+### [KR2: Three customer referrals](https://github.com/automi-team/OKR-Q4-21/projects/3)
 
-### [KR3: 4 demos for new use cases](https://github.com/automi-team/OKR-Q4-21/projects/4)
+### [KR3: Four demos for new use cases](https://github.com/automi-team/OKR-Q4-21/projects/4)
 
 ---
 
