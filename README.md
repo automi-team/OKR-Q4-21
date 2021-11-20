@@ -1,7 +1,8 @@
 # OKR-Q4-21
 *Automi OKRs for the 4th quarter of 2021*
 
-We've spent this year testing technology, refining our product vision and proving the willingness to pay of our customers. Our aim for this last quarter is to end the year with everything we need to take off in 2022. This includes 3 key things: a loyal customer basis, a product MVP and an early stage marketing platform. Therefore our objectives below:
+We've spent this year testing technology, refining our product vision and proving the willingness to pay of our customers. Our aim for this last quarter is to end the year with everything we need to take off in 2022. This includes 3 key things: a loyal customer basis, a product MVP and an early stage marketing platform. Therefore our current objectives.
+
 ---
 ## [O1. Make early stage customers happy](https://github.com/automi-team/OKR-Q4-21/milestone/1)
 We are building up a pool of 10 early customers who believe in our ability to help them with our product. These customers will give us credibility we need to convince the market and investors. They will also invest their time in giving us feedback on the product.
