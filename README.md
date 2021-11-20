@@ -3,7 +3,7 @@
 
 We've spent this year testing technology, refining our product vision and proving the willingness to pay of our customers. Our aim for this last quarter is to end the year with everything we need to take off in 2022. This includes 3 key things: a loyal customer basis, a product MVP and an early stage marketing platform. Therefore our objectives below:
 
-## [O1. Happy early stage customers](https://github.com/automi-team/OKR-Q4-21/milestone/1)
+## [O1. Make early stage customers happy](https://github.com/automi-team/OKR-Q4-21/milestone/1)
 
 ### [KR1: 3 POCs completed](https://github.com/automi-team/OKR-Q4-21/projects/2)
 
@@ -13,7 +13,7 @@ We've spent this year testing technology, refining our product vision and provin
 
 
 
-## [O2. Finalise MVP (Automi LAB)](https://github.com/automi-team/OKR-Q4-21/milestone/2)
+## [O2. Finalise our MVP (Automi LAB)](https://github.com/automi-team/OKR-Q4-21/milestone/2)
 
 ### [KR1: End-to-end UX design](https://github.com/automi-team/OKR-Q4-21/projects/5)
 
