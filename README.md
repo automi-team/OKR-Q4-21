@@ -1,5 +1,8 @@
 # OKR-Q4-21
 *Automi OKRs for the 4th quarter of 2021*
+<img src="files/automi.png"
+     alt="Automi"
+     style="height: auto; width: auto;" />
 
 We've spent this year testing technology, refining our product vision and proving the willingness to pay of our customers. Our aim for this last quarter is to end the year with everything we need to take off in 2022. This includes 3 key things: a loyal customer basis, a product MVP and an early stage marketing platform. Therefore our current objectives.
 
